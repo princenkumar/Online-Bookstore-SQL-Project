@@ -22,7 +22,8 @@ This project demonstrates a simple relational database design for an online book
 ---
 ----
   ## Online Books
-    ![images](https://github.com/user-attachments/assets/f82078ed-1ec4-4ed0-bb0f-c8c377c16f66)
+    ![images](https://github.com/user-attachments/assets/88c4a697-fb8c-46f3-a076-547195969c1c)
+
 
 ----
 
