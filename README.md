@@ -20,13 +20,10 @@ This project demonstrates a simple relational database design for an online book
 4. Execute the provided SELECT and analytical queries.
 
 ---
-----
+
   ## Online Books
     <img width="254" height="198" alt="images" src="https://github.com/user-attachments/assets/fa674aff-1369-4d5f-8c0e-8cde7cdeadfb" />
 
-
-
-----
 
 ## 🔎 Queries included
 - Retrieve books by genre, books published after a year  
