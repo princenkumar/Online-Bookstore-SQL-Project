@@ -20,6 +20,11 @@ This project demonstrates a simple relational database design for an online book
 4. Execute the provided SELECT and analytical queries.
 
 ---
+----
+  ## Online Books
+    ![images](https://github.com/user-attachments/assets/f82078ed-1ec4-4ed0-bb0f-c8c377c16f66)
+
+----
 
 ## 🔎 Queries included
 - Retrieve books by genre, books published after a year  
@@ -45,4 +50,4 @@ This project demonstrates a simple relational database design for an online book
 ## 👨‍💻 About
 **Created by:** Prince Kumar  
 _Data Analyst | SQL | Excel_  
-📧 prince@gmail.com
+📧 princeyadav841412@gmail.com
